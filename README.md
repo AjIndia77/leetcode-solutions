@@ -54,7 +54,7 @@ You can:
 
 **Ambika**  
 🎓 Computer Science Student  
-💬 Let's connect: [LinkedIn](https://www.linkedin.com/) *(update with your link)*
+💬 Let's connect: [LinkedIn]([https://www.linkedin.com/](https://linkedin.com/in/ambika-joshi-58b628261))
 
 ---
 
