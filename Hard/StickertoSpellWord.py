@@ -1,3 +1,4 @@
+#Hard - Sticker to spell word
 class Solution:
     def minStickers(self, stickers: List[str], target: str) -> int:
         stickCount = []
